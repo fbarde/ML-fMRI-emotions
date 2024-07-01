@@ -1,10 +1,10 @@
-# ML-fMRI-emotions
+## ML-fMRI-emotions
 Machine Learning for emotion prediction from brain fMRI data.
 
-Date: Sep-Dec 2021
-Course: CS-433 - Machine Learning (Prof. Flammarion Bernard, Prof. Jaggi Martin)
-Collaborators: Manon Bechaz, Laura Maria
-Supervisor: Dr. Elenor Morgenroth
+Date: Sep-Dec 2021\\
+Course: CS-433 - Machine Learning (Prof. Flammarion Bernard, Prof. Jaggi Martin)\\
+Collaborators: Manon Bechaz, Laura Maria\\
+Supervisor: Dr. Elenor Morgenroth\\
 
 # General aim of the code
 
