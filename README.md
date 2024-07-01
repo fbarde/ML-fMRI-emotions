@@ -38,6 +38,6 @@ This gathers all machine learning methods applied
 - **Optimization_Models.ipynb**  optimizing the parameters of the different machine learning methods.
 - **Models.ipynb** :  Implements the different machine learning methods tested for the classification of the emotions.
 
-## results_analysis_and_plots
+### results_analysis_and_plots
 This final folder contains scripts to analyse the data and reproduce the figures present in the report. 
 
